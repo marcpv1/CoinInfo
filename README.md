@@ -5,6 +5,7 @@ Installation instructions for Linux:
 1. Open terminal
 2. pip install coinbase
 3. Clone the repository with git clone ...
-4. python2 coin1.py mpv
+4. Replace config_coin_mpv.py with your coinbase API credentials
+5. python2 coin1.py mpv
 
 The output is HTML format.
