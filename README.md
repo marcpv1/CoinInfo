@@ -8,4 +8,4 @@ Installation instructions for Linux:
 4. Replace config_coin_mpv.py with your coinbase API credentials
 5. python2 coin1.py mpv
 
-The output is HTML format.
+The output is HTML.
